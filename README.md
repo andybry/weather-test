@@ -19,7 +19,7 @@ After completing steps 1 and 2 above, run `npm test`
 
 ## Public URL
 
-https://arb-weather-test.herokuapp.com/
+http://arb-weather-test.herokuapp.com/
 
 NB: Because the application is running in a free Heroku application
 it may be sleeping on the first request
